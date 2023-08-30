@@ -1,5 +1,7 @@
 # MeuPrimeiroApp
 
+- curso q estou acompanhando do `Alura.com.br` (https://cursos.alura.com.br/course/angular-explorando-framework)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
