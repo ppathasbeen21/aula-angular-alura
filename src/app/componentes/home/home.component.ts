@@ -9,12 +9,18 @@ export class HomeComponent implements OnInit{
 
   pensamento = {
     id: '1',
-    conteudo: 'Aprendendo Angular',
-    autoria: 'Dev',
-    modelo: ''
+    conteudo: 'Minha Primeira aplicação Angular',
+    autoria: 'Dev Patrick',
+    modelo: 'modelo2'
   }
   constructor() {
   }
   ngOnInit() {
+  }
+  criarPensamento() {
+    alert('salvo');
+  }
+  cancelar() {
+    alert('cancelado');
   }
 }
